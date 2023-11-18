@@ -93,6 +93,7 @@ including the Y-axis frame, the print bed, and the printed object.
 
 ![image](https://github.com/Goutham2306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138971154/100791ca-31ea-42e6-b894-b29b1279128c)
 
+## Z-Axis Rod :
 The z-axis rod is responsible for supporting the weight of the print head and controlling its
 movement as it moves up and down during the printing process
 ## Z-Axis Top Cover :

@@ -72,58 +72,81 @@ motor is help to movement of the print head along x,y,z axes
 
 ## Y-Axis Supporter :
 The Y-axis supporter must be designed to withstand the forces generated during printing and
-maintain the printer's accuracy and stability. Horiz. & Vertical Threaded Rod : The horizontal
-threaded rod is typically used to hold the pulley that drives the movement of the print bed along
-the Y-axis.The vertical threaded rod is typically used to control the Z-axis movement of the print
-bed
+maintain the printer's accuracy and stability. 
+
+
+## Horiz. & Vertical Threaded Rod : 
+The horizontal threaded rod is typically used to hold the pulley that drives the movement of the print bed along
+the Y-axis.The vertical threaded rod is typically used to control the Z-axis movement of the print bed
+
+
 ## Smooth Rod :
 The use of smooth rods in the printer's Y-axis mechanism helps to provide smooth and precise
 movement of the print bed
+
 ## Pulley :
 pulley is often used in the Y-axis mechanism to transfer motion from the printer's stepper motor to
 the print bed.
+
 ## Motor :
 motor is help to movement of the print head along x,y,z axes
+
 ## Y-Axis Frame :
 It is responsible for support and stability of y axis frame.and also z axis.
+
 ## Y-Axis Base :
 The Y-axis base is responsible for providing stability and support to the entire printer's structure,
 including the Y-axis frame, the print bed, and the printed object.
+
 ## Z-axis Assembly:
 
 ![image](https://github.com/Goutham2306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138971154/100791ca-31ea-42e6-b894-b29b1279128c)
 
+
 ## Z-Axis Rod :
 The z-axis rod is responsible for supporting the weight of the print head and controlling its
 movement as it moves up and down during the printing process
+
 ## Z-Axis Top Cover :
 The primary purpose of the z-axis top cover is to prevent dust and debris from settling on the zaxis rod, which can cause damage to the rod and the bearings that guide it
+
 ## Motor :
 motor is help to movement of the print head along x,y,z axes
+
 ## Complete Assembly:
 
 ![image](https://github.com/Goutham2306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138971154/4a15d547-eca5-4886-a6f6-866992047503)
 
+
 ## Frame :
 rigid structure that holds all the other components of the printer
+
 ## Y-Axis assembly :
 The Y-axis is responsible for moving the print bed back and forth along the horizontal axis.
+
 ## Z-Axis Assembly :
 The Z-axis is responsible for moving the print head up and down along the vertical axis.
+
 ## X-Axis Assembly :
 The X-axis is responsible for moving the print head back and forth along the horizontal axis.
+
 ## SMPS :
 convert ac to dc current.
+
 ## LCD :
 LCD screen provides a user-friendly interface that allows the user to control the printer and monitor
 its progress during printing.
+
 ## Spool Holder :
 It holds spool
+
 ## Spool :
 a spool refers to a roll of filament that is used as the printing material for the 3D printer.
+
 ## Playing with Axis:
 
 ![image](https://github.com/Goutham2306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138971154/55a8bbce-d8f2-454f-9bf3-e29870edc1e3)
+
 
 ### Name: Goutham.K
 ### Register Number: 23008975

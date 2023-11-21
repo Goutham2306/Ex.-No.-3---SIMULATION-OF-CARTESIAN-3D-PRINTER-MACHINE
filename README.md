@@ -70,6 +70,7 @@ motor is help to movement of the print head along x,y,z axes
 
 ![image](https://github.com/Goutham2306/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/138971154/9cc85965-f4d2-4e29-8d9d-44421e456b44)
 
+
 ## Y-Axis Supporter :
 The Y-axis supporter must be designed to withstand the forces generated during printing and
 maintain the printer's accuracy and stability. 
